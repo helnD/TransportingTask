@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISNAP_4", "ISNAP_4\ISNAP_4.csproj", "{C9F1B091-056D-469E-8A08-C1EAE0051CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{E6E0E855-7417-441A-8CB9-AF5237FE8C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F1B091-056D-469E-8A08-C1EAE0051CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F1B091-056D-469E-8A08-C1EAE0051CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F1B091-056D-469E-8A08-C1EAE0051CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F1B091-056D-469E-8A08-C1EAE0051CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E0E855-7417-441A-8CB9-AF5237FE8C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E0E855-7417-441A-8CB9-AF5237FE8C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E0E855-7417-441A-8CB9-AF5237FE8C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E0E855-7417-441A-8CB9-AF5237FE8C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
